@@ -93,6 +93,13 @@ The architecture supports future advanced analytics, including:
 
 ---
 
+## 📁 Repository Structure
+- documentation/: Architecture diagrams and consultancy report
+- sql/: ELT pipeline and data warehouse SQL models
+- dashboards/: Looker Studio screenshots and live dashboard link
+
+---
+
 ## 👤 Author
 **Jorge Luis Del Angel Maldonado**  
 MSc Science in Data Analytics – Business Intelligence  
