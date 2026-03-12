@@ -10,6 +10,13 @@ The solution was designed as a **consultancy-style project**, covering the full 
 
 ---
 
+## 📁 Repository Structure
+- documentation/: Architecture diagrams and consultancy report
+- sql/: ELT pipeline and data warehouse SQL models
+- dashboards/: Looker Studio screenshots and live dashboard link
+
+---
+
 ## 🎯 Business Context
 Olist operates as a “store of stores,” managing thousands of independent sellers across Brazil.  
 Key challenges included:
@@ -90,13 +97,6 @@ The architecture supports future advanced analytics, including:
 - Logistics delay prediction
 - Customer churn analysis
 - Seller performance scoring models
-
----
-
-## 📁 Repository Structure
-- documentation/: Architecture diagrams and consultancy report
-- sql/: ELT pipeline and data warehouse SQL models
-- dashboards/: Looker Studio screenshots and live dashboard link
 
 ---
 
